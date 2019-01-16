@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CustomSpinnerDialog</string>
+
+    <string-array name="guarantee_type_list">
+        <item>SSK</item>
+        <item>Bağkur</item>
+        <item>Emekli Sandığı</item>
+        <item>Yeşil Kart</item>
+        <item>Vatansız ve Sığınmacılar</item>
+        <item>2022 Sayılı 65 Yaş Üstü ve Muhtaç</item>
+        <item>1005 Sayılı İstiklal Madalyası Olanlar</item>
+        <item>2828 Sayılı Sosyal Hizmetler ve Çocuk Esirgeme</item>
+        <item>SGK</item>
+        <item>Oturma İzni Olan Güvencesiz Yabancı</item>
+        <item>4447 Sayılı İşsizlik Sigortası</item>
+        <item>60-g İsteğe Bağlı Sigortalılar</item>
+        <item>18 Yaş Altı Güvenceliler</item>
+        <item>Yabancı Uyruklu Üniversiteliler</item>
+        <item>Stajyer Avukat</item>
+        <item>Kapsam Dışı</item>
+        <item>TBMM</item>
+        <item>AİHM</item>
+        <item>Ceza İnfaz ve Tutukevi Kursiyeri</item>
+        <item>60/c1-c3-c9</item>
+        <item>3713/21</item>
+        <item>Yurtdışı Sigortalılar</item>
+        <item>Güvencesiz</item>
+        <item>Özel Sigorta</item>
+        <item>TSK Medula Dışı Er, Erbaş ve Yakını</item>
+    </string-array>
+</resources>
