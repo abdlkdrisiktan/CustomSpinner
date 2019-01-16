@@ -38,6 +38,7 @@ public class SearchDialogCompat<T extends Searchable> extends BaseSearchDialogCo
         mTitle = title;
         mSearchHint = searchHint;
         mSearchResultListener = searchResultListener;
+        this.mHighlightColor = mHighlightColor;
     }
     @Override
     protected void getView(View view) {
